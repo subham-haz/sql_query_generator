@@ -1,0 +1,7 @@
+streamlit
+requests
+psycopg2
+sqlalchemy
+python-dotenv
+google-generativeai
+fuzzywuzzy
